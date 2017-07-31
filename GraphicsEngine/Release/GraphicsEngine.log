@@ -1,0 +1,35 @@
+﻿  DescriptorSet.cpp
+  IndexBuffer.cpp
+  Pipeline.cpp
+  Shader.cpp
+  StaticBuffer.cpp
+  VertexBuffer.cpp
+  VModel.cpp
+  VTexture.cpp
+  VulkanBase.cpp
+  VulkanEngine.cpp
+  Assert.cpp
+  Djinn.cpp
+  ObjectFactory.cpp
+  SceneFactory.cpp
+  Binder.cpp
+  BumpMapComponent.cpp
+  GameObject.cpp
+  GraphicsComponent.cpp
+  ParallaxComponent.cpp
+  Selector.cpp
+  Compiling...
+  Slider.cpp
+  main.cpp
+  BillboardRotation.cpp
+  SimpleRotation.cpp
+  SkyBoxMovement.cpp
+  ModelManager.cpp
+  TextureManager.cpp
+  Camera.cpp
+  Scene.cpp
+  Generating code
+  All 6254 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GraphicsEngine.vcxproj -> C:\Users\DOMI\Documents\Visual Studio 2015\Projects\GraphicsEngine\Release\GraphicsEngine.exe
+  GraphicsEngine.vcxproj -> C:\Users\DOMI\Documents\Visual Studio 2015\Projects\GraphicsEngine\Release\GraphicsEngine.pdb (Full PDB)

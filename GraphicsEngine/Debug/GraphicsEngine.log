@@ -1,0 +1,35 @@
+﻿  Scene.cpp
+  Camera.cpp
+  TextureManager.cpp
+  ModelManager.cpp
+  SkyBoxMovement.cpp
+  SimpleRotation.cpp
+  BillboardRotation.cpp
+  main.cpp
+  Slider.cpp
+  Selector.cpp
+  ParallaxComponent.cpp
+  GraphicsComponent.cpp
+  GameObject.cpp
+  BumpMapComponent.cpp
+  Binder.cpp
+  SceneFactory.cpp
+  ObjectFactory.cpp
+  Djinn.cpp
+  Assert.cpp
+  VulkanEngine.cpp
+  Generating Code...
+  Compiling...
+  VulkanBase.cpp
+  VTexture.cpp
+  VModel.cpp
+  VertexBuffer.cpp
+  StaticBuffer.cpp
+  Shader.cpp
+  Pipeline.cpp
+  IndexBuffer.cpp
+  DescriptorSet.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  GraphicsEngine.vcxproj -> c:\users\domi\documents\visual studio 2015\Projects\GraphicsEngine\Debug\GraphicsEngine.exe
+  GraphicsEngine.vcxproj -> c:\users\domi\documents\visual studio 2015\Projects\GraphicsEngine\Debug\GraphicsEngine.pdb (Full PDB)
